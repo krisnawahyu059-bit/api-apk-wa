@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@sanzope/bails":"latest",
+    "@whiskeysockets/baileys": "github:ZyuuKnowxy/bails",
     "axios": "^1.8.4",
     "body-parser": "^2.2.0",
     "chalk": "^5.4.1",
