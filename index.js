@@ -41,7 +41,7 @@ const {
   encodeWAMessage, getStream, WAProto, isBaileys, AnyMessageContent,
   fetchLatestWaWebVersion, templateMessage, fetchLatestBaileysVersion,
   InteractiveMessage, Header, viewOnceMessage, groupStatusMentionMessage,
-} = require('@sanzope/bails');
+} = require('whiskeysockets/baileys');
 const express = require("express");
 const bodyParser = require('body-parser');
 const readline = require("readline");
